@@ -13,8 +13,8 @@ Busco mi primera posición como desarrollador, en ESPAÑA - AlMERIA o en remoto.
 | | |
 |---|---|
 | **Lenguajes** | JavaScript · TypeScript · Python · Java · PHP |
-| **Frontend** | React · Tailwind CSS · HTML · CSS |
-| **Backend** | Node.js · Express · FastAPI · APIs REST · JWT |
+| **Frontend** | React · Vue.js · Tailwind CSS · HTML · CSS |
+| **Backend** | Node.js · Express · Laravel · FastAPI · APIs REST · JWT |
 | **Bases de datos** | PostgreSQL · MySQL |
 | **IA / LLMs** | Integración de agentes conversacionales sobre datos propios |
 | **Herramientas** | Docker · Git · GitHub · Figma · VS Code |

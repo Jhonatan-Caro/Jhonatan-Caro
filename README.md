@@ -50,5 +50,5 @@ Dos problemas que me obligaron a pensar en arquitectura y no solo en código:
 
 ## Contacto
 
-- **LinkedIn:** [jhonatan-caro-suarez](https://www.linkedin.com/in/jhonatan-caro-b29b47412/)
+- **LinkedIn:** [jhonatan-caro-suarez](https://www.linkedin.com/in/jhonatancarosuarez/)
 - **Email:** jhonycaro1301@gmail.com

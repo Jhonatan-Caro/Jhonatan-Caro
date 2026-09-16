@@ -46,7 +46,7 @@ Dos problemas que me obligaron a pensar en arquitectura y no solo en código:
 
 ---
 
-### Portfolio personal · jhonatancaro.dev
+### [Portfolio · jhonatancaro.dev](https://jhonatancaro.dev/)
 
 Sitio construido con Next.js y TypeScript, exportado como estático y desplegado en Amazon S3. Se distribuye con CloudFront sobre HTTPS mediante un certificado de ACM, y el DNS del dominio propio está gestionado en Cloudflare.
 

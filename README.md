@@ -6,6 +6,8 @@ Esa combinación es la que me interesa: aplicaciones que no solo guardan datos, 
 
 Busco mi primera posición como desarrollador, en ESPAÑA - AlMERIA o en remoto.
 
+jhonatancaro.dev
+
 ---
 
 ## Stack
@@ -13,10 +15,11 @@ Busco mi primera posición como desarrollador, en ESPAÑA - AlMERIA o en remoto.
 | | |
 |---|---|
 | **Lenguajes** | JavaScript · TypeScript · Python · Java · PHP |
-| **Frontend** | React · Vue.js · Tailwind CSS · HTML · CSS |
+| **Frontend** | React · Next.js · Vue.js · Tailwind CSS · HTML · CSS |
 | **Backend** | Node.js · Express · Laravel · FastAPI · APIs REST · JWT |
 | **Bases de datos** | PostgreSQL · MySQL |
 | **IA / LLMs** | Integración de agentes conversacionales sobre datos propios |
+| **Cloud** | AWS(S3, CloudFront, ACM) · Cloudflare DNS |
 | **Herramientas** | Docker · Git · GitHub · Figma · VS Code |
 | **CMS** | WordPress |
 
@@ -43,10 +46,30 @@ Dos problemas que me obligaron a pensar en arquitectura y no solo en código:
 
 ---
 
+### Portfolio personal · jhonatancaro.dev
+
+Sitio construido con Next.js y TypeScript, exportado como estático y desplegado en Amazon S3. Se distribuye con CloudFront sobre HTTPS mediante un certificado de ACM, y el DNS del dominio propio está gestionado en Cloudflare.
+
+`Next.js` `React` `TypeScript` `Tailwind` `AWS S3` `CloudFront` `ACM` 
+
+---
+
 ## Formación
 
 - **Máster en Big Data e Inteligencia Artificial** — en curso
 - **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)**
+
+## Ahora mismo
+
+**Sistema RAG híbrido en Stocken-Data.** Las métricas de ventas se seguirán consultando con SQL —un embedding no sabe sumar ni comparar magnitudes— y la búsqueda vectorial se reserva para los playbooks de negocio, que sí son texto con significado. Sobre **pgvector**, en el mismo PostgreSQL del proyecto, para poder filtrar por usuario dentro de la propia consulta de similitud. En desarrollo.
+
+**AWS.** Tras desplegar mi portfolio con S3, CloudFront y ACM, estudiando
+EC2, Lambda y RDS.
+
+**Validación en la importación de Stocken-Data:** sugerencia automática del
+mapeo de columnas y comprobación del contenido antes de escribir en base
+de datos.
+
 
 ## Contacto
 

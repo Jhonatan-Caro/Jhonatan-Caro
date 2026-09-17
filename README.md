@@ -6,7 +6,7 @@ Esa combinación es la que me interesa: aplicaciones que no solo guardan datos, 
 
 Busco mi primera posición como desarrollador, en ESPAÑA - AlMERIA o en remoto.
 
-jhonatancaro.dev
+[jhonatancaro.dev](https://jhonatancaro.dev/)
 
 ---
 
@@ -74,4 +74,5 @@ de datos.
 ## Contacto
 
 - **LinkedIn:** [jhonatan-caro-suarez](https://www.linkedin.com/in/jhonatancarosuarez/)
-- **Email:** jhonycaro1301@gmail.com
+- **Email:** jhonatancaro258@gmail.com
+- **Web:** [jhonatancaro.dev](https://jhonatancaro.dev/)
